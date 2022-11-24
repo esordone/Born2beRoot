@@ -2,4 +2,10 @@
 
 Aquest resum s'ha elaborat seguint la guia publicada per l'usiari gemartin99
 
+GUIA ORIGINAL COMPLETA:
+
 🔥 https://github.com/gemartin99/Born2beroot-Tutorial 🔥
+
+RESUM:
+
+✨ https://flawless-toucan-2e7.notion.site/Born2beRoot-02b8e1a1fd8d48eba6db0f0e7f8803b3 ✨
