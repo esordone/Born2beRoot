@@ -12,5 +12,6 @@ RESUM:
 
 ALTRES GUIES:
 
-https://github.com/GuillaumeOz/Born2beroot
-https://baigal.medium.com/born2beroot-e6e26dfb50ac
+1. https://github.com/GuillaumeOz/Born2beroot
+
+2. https://baigal.medium.com/born2beroot-e6e26dfb50ac
